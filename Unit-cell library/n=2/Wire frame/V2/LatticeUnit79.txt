@@ -1,0 +1,69 @@
+//Grid  ID     x      y       z
+GRID    1       0       5       5
+GRID    2       0       0       0
+GRID    3       0       0      10
+GRID    4       5      -5       0
+GRID    5      10       0       0
+GRID    6      -5      -5       0
+GRID    7     -10       0       0
+GRID    8      -5       0      -5
+GRID    9       0       0     -10
+GRID   10       5       0      -5
+GRID   11       0      10       0
+GRID   12       0      -5      -5
+GRID   13       0     -10       0
+GRID   14       5       0       5
+GRID   15       5       5       0
+GRID   16      -5       0       5
+GRID   17      -5       5       0
+GRID   18       0       5      -5
+GRID   19       0      -5       5
+//Strut ID      Start   End
+STRUT   1       1       2
+STRUT   2       4       2
+STRUT   3       6       2
+STRUT   4       8       2
+STRUT   5      10       2
+STRUT   6       1       2
+STRUT   7      12       2
+STRUT   8      14       2
+STRUT   9      15       2
+STRUT  10       4       2
+STRUT  11       8       2
+STRUT  12       6       2
+STRUT  13      10       2
+STRUT  14      16       2
+STRUT  15      17       2
+STRUT  16      15       2
+STRUT  17      18       2
+STRUT  18      17       2
+STRUT  19      19       2
+STRUT  20      12       2
+STRUT  21      18       2
+STRUT  22      16       2
+STRUT  23      19       2
+STRUT  24      14       2
+STRUT  25       2       3
+STRUT  26       2       5
+STRUT  27       2       7
+STRUT  28       2       9
+STRUT  29       2       9
+STRUT  30       2      11
+STRUT  31       2      13
+STRUT  32       2       5
+STRUT  33       2      11
+STRUT  34       2      13
+STRUT  35       2       7
+STRUT  36       2      13
+STRUT  37       2       5
+STRUT  38       2       7
+STRUT  39       2      11
+STRUT  40       2       5
+STRUT  41       2       9
+STRUT  42       2       7
+STRUT  43       2      13
+STRUT  44       2       9
+STRUT  45       2      11
+STRUT  46       2       3
+STRUT  47       2       3
+STRUT  48       2       3

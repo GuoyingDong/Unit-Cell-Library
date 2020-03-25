@@ -1,0 +1,81 @@
+//Grid  ID     x      y       z
+GRID    1       5       5      10
+GRID    2       0       0       0
+GRID    3       0       0       5
+GRID    4      10      -5       5
+GRID    5       5       0       0
+GRID    6     -10      -5      -5
+GRID    7      -5       0       0
+GRID    8      -5      -5     -10
+GRID    9       0       0      -5
+GRID   10       5       5     -10
+GRID   11      -5      10       5
+GRID   12       0       5       0
+GRID   13      -5     -10      -5
+GRID   14       0      -5       0
+GRID   15      10       5       5
+GRID   16       5      10       5
+GRID   17       5     -10      -5
+GRID   18     -10       5      -5
+GRID   19      -5     -10       5
+GRID   20      10      -5      -5
+GRID   21     -10      -5       5
+GRID   22      -5      10      -5
+GRID   23      10       5      -5
+GRID   24      -5       5     -10
+GRID   25     -10       5       5
+GRID   26       5     -10       5
+GRID   27       5      -5     -10
+GRID   28       5      10      -5
+GRID   29      -5       5      10
+GRID   30      -5      -5      10
+GRID   31       5      -5      10
+//Strut ID      Start   End
+STRUT   1       1       2
+STRUT   2       4       2
+STRUT   3       6       2
+STRUT   4       8       2
+STRUT   5      10       2
+STRUT   6      11       2
+STRUT   7      13       2
+STRUT   8      15       2
+STRUT   9      16       2
+STRUT  10      17       2
+STRUT  11      18       2
+STRUT  12      19       2
+STRUT  13      20       2
+STRUT  14      21       2
+STRUT  15      22       2
+STRUT  16      23       2
+STRUT  17      24       2
+STRUT  18      25       2
+STRUT  19      26       2
+STRUT  20      27       2
+STRUT  21      28       2
+STRUT  22      29       2
+STRUT  23      30       2
+STRUT  24      31       2
+STRUT  25       2       3
+STRUT  26       2       5
+STRUT  27       2       7
+STRUT  28       2       9
+STRUT  29       2       9
+STRUT  30       2      12
+STRUT  31       2      14
+STRUT  32       2       5
+STRUT  33       2      12
+STRUT  34       2      14
+STRUT  35       2       7
+STRUT  36       2      14
+STRUT  37       2       5
+STRUT  38       2       7
+STRUT  39       2      12
+STRUT  40       2       5
+STRUT  41       2       9
+STRUT  42       2       7
+STRUT  43       2      14
+STRUT  44       2       9
+STRUT  45       2      12
+STRUT  46       2       3
+STRUT  47       2       3
+STRUT  48       2       3

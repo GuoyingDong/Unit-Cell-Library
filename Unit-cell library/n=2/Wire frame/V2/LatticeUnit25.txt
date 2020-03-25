@@ -1,0 +1,153 @@
+//Grid  ID     x      y       z
+GRID    1       0       0      10
+GRID    2       0       0       0
+GRID    3     2.5       5     7.5
+GRID    4      10       0       0
+GRID    5     7.5      -5     2.5
+GRID    6     -10       0       0
+GRID    7    -7.5      -5    -2.5
+GRID    8       0       0     -10
+GRID    9      -5    -2.5    -7.5
+GRID   10       5     2.5    -7.5
+GRID   11       0      10       0
+GRID   12    -2.5     7.5       5
+GRID   13       0     -10       0
+GRID   14    -2.5    -7.5      -5
+GRID   15     7.5     2.5       5
+GRID   16       5     7.5     2.5
+GRID   17       5    -7.5    -2.5
+GRID   18    -7.5     2.5      -5
+GRID   19      -5    -7.5     2.5
+GRID   20     7.5    -2.5      -5
+GRID   21    -7.5    -2.5       5
+GRID   22      -5     7.5    -2.5
+GRID   23     7.5       5    -2.5
+GRID   24    -2.5       5    -7.5
+GRID   25    -7.5       5     2.5
+GRID   26     2.5    -7.5       5
+GRID   27     2.5      -5    -7.5
+GRID   28     2.5     7.5      -5
+GRID   29      -5     2.5     7.5
+GRID   30    -2.5      -5     7.5
+GRID   31       5    -2.5     7.5
+GRID   32     2.5       5    -7.5
+GRID   33    -2.5       5     7.5
+GRID   34     2.5      -5     7.5
+GRID   35      -5    -2.5     7.5
+GRID   36       5     2.5     7.5
+GRID   37    -7.5       5    -2.5
+GRID   38     7.5       5     2.5
+GRID   39     2.5    -7.5      -5
+GRID   40     2.5     7.5       5
+GRID   41    -2.5      -5    -7.5
+GRID   42    -7.5    -2.5      -5
+GRID   43      -5    -7.5    -2.5
+GRID   44       5     7.5    -2.5
+GRID   45    -7.5     2.5       5
+GRID   46      -5     7.5     2.5
+GRID   47     7.5    -2.5       5
+GRID   48     7.5     2.5      -5
+GRID   49       5    -7.5     2.5
+GRID   50    -2.5     7.5      -5
+GRID   51    -2.5    -7.5       5
+GRID   52    -7.5      -5     2.5
+GRID   53     7.5      -5    -2.5
+GRID   54       5    -2.5    -7.5
+GRID   55      -5     2.5    -7.5
+//Strut ID      Start   End
+STRUT   1       1       2
+STRUT   2       4       2
+STRUT   3       6       2
+STRUT   4       8       2
+STRUT   5       8       2
+STRUT   6      11       2
+STRUT   7      13       2
+STRUT   8       4       2
+STRUT   9      11       2
+STRUT  10      13       2
+STRUT  11       6       2
+STRUT  12      13       2
+STRUT  13       4       2
+STRUT  14       6       2
+STRUT  15      11       2
+STRUT  16       4       2
+STRUT  17       8       2
+STRUT  18       6       2
+STRUT  19      13       2
+STRUT  20       8       2
+STRUT  21      11       2
+STRUT  22       1       2
+STRUT  23       1       2
+STRUT  24       1       2
+STRUT  25       8       2
+STRUT  26       1       2
+STRUT  27       1       2
+STRUT  28       1       2
+STRUT  29       1       2
+STRUT  30       6       2
+STRUT  31       4       2
+STRUT  32      13       2
+STRUT  33      11       2
+STRUT  34       8       2
+STRUT  35       6       2
+STRUT  36      13       2
+STRUT  37      11       2
+STRUT  38       6       2
+STRUT  39      11       2
+STRUT  40       4       2
+STRUT  41       4       2
+STRUT  42      13       2
+STRUT  43      11       2
+STRUT  44      13       2
+STRUT  45       6       2
+STRUT  46       4       2
+STRUT  47       8       2
+STRUT  48       8       2
+STRUT  49       2       3
+STRUT  50       2       5
+STRUT  51       2       7
+STRUT  52       2       9
+STRUT  53       2      10
+STRUT  54       2      12
+STRUT  55       2      14
+STRUT  56       2      15
+STRUT  57       2      16
+STRUT  58       2      17
+STRUT  59       2      18
+STRUT  60       2      19
+STRUT  61       2      20
+STRUT  62       2      21
+STRUT  63       2      22
+STRUT  64       2      23
+STRUT  65       2      24
+STRUT  66       2      25
+STRUT  67       2      26
+STRUT  68       2      27
+STRUT  69       2      28
+STRUT  70       2      29
+STRUT  71       2      30
+STRUT  72       2      31
+STRUT  73       2      32
+STRUT  74       2      33
+STRUT  75       2      34
+STRUT  76       2      35
+STRUT  77       2      36
+STRUT  78       2      37
+STRUT  79       2      38
+STRUT  80       2      39
+STRUT  81       2      40
+STRUT  82       2      41
+STRUT  83       2      42
+STRUT  84       2      43
+STRUT  85       2      44
+STRUT  86       2      45
+STRUT  87       2      46
+STRUT  88       2      47
+STRUT  89       2      48
+STRUT  90       2      49
+STRUT  91       2      50
+STRUT  92       2      51
+STRUT  93       2      52
+STRUT  94       2      53
+STRUT  95       2      54
+STRUT  96       2      55
